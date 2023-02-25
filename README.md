@@ -14,7 +14,7 @@ or
 
 ## Build ROM
 ```bash
-cd src && tinygo build -size short -o ../rom.gba -target=gameboy-advance etchy_sketchy.go
+cd src && tinygo build -size short -o Ethcy-Sketchy.gba -target=gameboy-advance etchy_sketchy.go
 ```
 
 ## References
