@@ -3,8 +3,8 @@
 Homebrew Game boy Advance game written in TinyGo. 
 
 <p float="left">
-  <img src="https://github.com/Shellywell123/Etchy-Sketchy/blob/main/assets/ScreenGrab.GIF" width="400" />
-  <img src="https://github.com/Shellywell123/Etchy-Sketchy/blob/main/assets/Game-Boy-Advance.jpg" width="400" />
+  <img src="https://github.com/Shellywell123/Etchy-Sketchy/blob/main/assets/ScreenGrab.GIF" height="233" />
+  <img src="https://github.com/Shellywell123/Etchy-Sketchy/blob/main/assets/Game-Boy-Advance.jpg" height="233" />
 </p>
 
 ## Play 
