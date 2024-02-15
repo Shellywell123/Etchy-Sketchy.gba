@@ -9,7 +9,7 @@ Homebrew Game boy Advance game written in TinyGo.
 </p>
 
 ## Play 
-- Play online (Coming Soon)\
+- [Play online](https://shellywell123.github.io/Etchy-Sketchy/emulator/gbajs2/)\
 or
 - Download the latest [ROM](https://github.com/Shellywell123/Etchy-Sketchy/releases) and play it in an emulator/original hardware.
 
