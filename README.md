@@ -22,3 +22,5 @@ make build
 Quick thanks to the other community projects that made this project so simple.
 - [scraly/learning-go-by-examples](https://github.com/scraly/learning-go-by-examples) for the example template.
 - [danmrichards/go-gba-pong](https://github.com/danmrichards/go-gba-pong) for the key press method.
+- [andychase](https://github.com/andychase/gbajs2/issues/24) for the ROM loading logic.
+- [andychase](https://github.com/andychase/gbajs2) for the gbjs2 fork.
