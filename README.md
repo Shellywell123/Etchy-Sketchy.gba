@@ -1,4 +1,4 @@
-# Etchy-Sketchy
+# Etchy-Sketchy.gba
 
 Homebrew Game boy Advance game written in TinyGo. 
 
