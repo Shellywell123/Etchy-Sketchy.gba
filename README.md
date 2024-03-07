@@ -3,15 +3,15 @@
 Homebrew Game boy Advance game written in TinyGo. 
 
 <p float="left">
-  <img src="https://github.com/Shellywell123/Etchy-Sketchy/blob/main/assets/ScreenGrab.GIF" height="300" />
-  <img src="https://github.com/Shellywell123/Etchy-Sketchy/blob/main/assets/Game-Boy-Advance-SP.jpg" height="300" />
-  <img src="https://github.com/Shellywell123/Etchy-Sketchy/blob/main/assets/Game-Boy-Advance.jpg" height="300" />
+  <img src="https://github.com/Shellywell123/Etchy-Sketchy.gba/blob/main/assets/ScreenGrab.GIF" height="300" />
+  <img src="https://github.com/Shellywell123/Etchy-Sketchy.gba/blob/main/assets/Game-Boy-Advance-SP.jpg" height="300" />
+  <img src="https://github.com/Shellywell123/Etchy-Sketchy.gba/blob/main/assets/Game-Boy-Advance.jpg" height="300" />
 </p>
 
 ## Play 
-- [Play online](https://shellywell123.github.io/Etchy-Sketchy/emulator/gbajs2/)\
+- [Play online](https://shellywell123.github.io/Etchy-Sketchy.gba/emulator/gbajs2/)\
 or
-- Download the latest [ROM](https://github.com/Shellywell123/Etchy-Sketchy/releases) and play it in an emulator/original hardware.
+- Download the latest [ROM](https://github.com/Shellywell123/Etchy-Sketchy.gba/releases) and play it in an emulator/original hardware.
 
 ## Build ROM
 ```bash
